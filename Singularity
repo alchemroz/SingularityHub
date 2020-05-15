@@ -1,5 +1,5 @@
-Bootstrap: shub
-From: singularityhub/ubuntu
+Bootstrap: docker
+From: centos:8
 
 %runscript
     exec echo "The runscript is the containers default runtime command!"
