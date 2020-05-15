@@ -5,6 +5,7 @@ From: centos:8
     exec echo "The runscript is the containers default runtime command!"
 
 
+
 #%files
 #   /home/vanessa/Desktop/hello-kitty.txt        # copied to root of container
 #   /home/vanessa/Desktop/party_dinosaur.gif     /opt/the-party-dino.gif #
